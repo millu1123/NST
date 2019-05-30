@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp">
+
+    <TextView
+        android:id="@+id/A"
+        android:layout_width="60dp"
+        android:layout_height="25dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:text="A" />
+
+    <TextView
+        android:id="@+id/B"
+        android:layout_width="60dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="59dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:text="B" />
+
+    <TextView
+        android:id="@+id/C"
+        android:layout_width="40dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="118dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:text="C" />
+
+    <TextView
+        android:id="@+id/D"
+        android:layout_width="40dp"
+        android:layout_height="107.5dp"
+        android:layout_marginLeft="118dp"
+        android:layout_marginTop="24dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:text="D" />
+
+    <TextView
+        android:id="@+id/E"
+        android:layout_width="40dp"
+        android:layout_height="37.5dp"
+        android:layout_marginLeft="118dp"
+        android:layout_marginTop="130.5dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:text="E" />
+
+    <TextView
+        android:id="@+id/F"
+        android:layout_width="88.5dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="157dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:text="F" />
+
+    <TextView
+        android:id="@+id/H"
+        android:layout_width="17.5dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="244.5dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:text="H" />
+
+    <TextView
+        android:id="@+id/I"
+        android:layout_width="17.5dp"
+        android:layout_height="57dp"
+        android:layout_marginLeft="244.5dp"
+        android:layout_marginTop="56dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:text="I" />
+
+    <TextView
+        android:id="@+id/J"
+        android:layout_width="64dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="261dp"
+        android:background="@drawable/back"
+        android:gravity="center"
+        android:text="J" />
+</RelativeLayout>

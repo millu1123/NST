@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="23dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="실내에서 Finger Printing 정보를 수집하고 고객위치 정보 제공 및 공지를 전송하는 어플리케이션입니다."
+        android:textSize="20sp"
+        android:layout_marginBottom="16dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp">
+
+            <Button
+                android:id="@+id/fp"
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:text="FP측정"
+                android:textSize="17sp"
+                android:background="@drawable/button"
+                android:layout_marginRight="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="각 구역에서 Finger Printing data를 100번 씩 측정해주는 기능입니다."
+                android:textSize="17sp"
+                android:layout_toRightOf="@+id/fp"
+                android:layout_centerVertical="true"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp">
+
+            <Button
+                android:id="@+id/loc"
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:text="고객위치정보"
+                android:textSize="17sp"
+                android:background="@drawable/button"
+                android:layout_marginRight="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="각 구역에 몇몇의 고객이 위치하는지 숫자로 나타내주는 기능입니다."
+                android:textSize="17sp"
+                android:layout_toRightOf="@+id/loc"
+                android:layout_centerVertical="true"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp">
+
+            <Button
+                android:id="@+id/alarm"
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:text="알림이"
+                android:textSize="17sp"
+                android:background="@drawable/button"
+                android:layout_marginRight="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NST_C 어플리케이션을 사용하는 모든 고객에서 공지를 전송해주는 기능입니다."
+                android:textSize="17sp"
+                android:layout_toRightOf="@+id/alarm"
+                android:layout_centerVertical="true"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

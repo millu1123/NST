@@ -12,16 +12,16 @@
 * NST_manager : 위치 서비스 관리자용 Android Application으로 이용자 모니터링 및 알림 기능, Fingerprinting DB 수집 기능 제공<br/>
 
 ## 만든이
-* 참여기업
-안세기술(www.ansetech.co.kr)
+* 참여기업<br/>
+안세기술(www.ansetech.co.kr)<br/>
 
-* 지도교수
-이형근 교수님(광운대학교 컴퓨터공학과)
+* 지도교수<br/>
+이형근 교수님(광운대학교 컴퓨터공학과)<br/>
 
-* Team NST(광운대학교 컴퓨터공학과)
-우성윤(eereer006@hotmail.com)
-박재우(gu_1723@naver.com)
-오영헌(dkwjtlqkqj@naver.com)
-심민섭(ekdkseh@naver.com)
+* Team NST(광운대학교 컴퓨터공학과)<br/>
+우성윤(eereer006@hotmail.com)<br/>
+박재우(gu_1723@naver.com)<br/>
+오영헌(dkwjtlqkqj@naver.com)<br/>
+심민섭(ekdkseh@naver.com)<br/>
 
 2019.05.30.

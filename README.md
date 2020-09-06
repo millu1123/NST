@@ -21,7 +21,7 @@
 * Team NST(광운대학교 컴퓨터공학과)<br/>
 우성윤(eereer006@hotmail.com)<br/>
 박재우(gu_1723@naver.com)<br/>
-오영헌(dkwjtlqkqj@naver.com)<br/>
+오영헌(oyh951416@naver.com)<br/>
 심민섭(ekdkseh@naver.com)<br/>
 
 2019.05.30.
